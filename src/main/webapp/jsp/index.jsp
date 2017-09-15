@@ -2,6 +2,6 @@
 
 <html>
 <body>
-    <jsp:forward page="/controller/main"/>
+    <jsp:forward page="/home"/>
 </body>
 </html>
