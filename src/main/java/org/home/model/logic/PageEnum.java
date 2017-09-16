@@ -1,6 +1,7 @@
 package org.home.model.logic;
 
 public enum PageEnum {
+    INDEX("/jsp/index.jsp"),
     HOME("/jsp/page/home.jsp"),
     LOGIN("/jsp/page/login.jsp"),
     SIGN("/jsp/page/sign.jsp"),

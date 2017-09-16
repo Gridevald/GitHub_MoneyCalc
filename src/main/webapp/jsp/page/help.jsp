@@ -24,7 +24,7 @@
 
 	<br>
 
-	<div class="text_div">This simple application would help you to track your income and expenses. On a main page you can see table with records. To add record use simple form under the table. If you want delete some record just push the button in the ent of record's row. At the bottom of the table you'll find your balance.</div>
+	<div class="text_div">This simple application would help you to track your income and expenses. On a main page you can see table with records. To add record use simple form under the table. If you want delete some record just push the button in the end of record's row. At the bottom of the table you'll find your balance.</div>
 
 </body>
 </html>

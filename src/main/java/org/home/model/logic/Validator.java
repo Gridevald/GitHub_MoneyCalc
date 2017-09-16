@@ -33,6 +33,7 @@ public class Validator {
 
     public boolean checkDate(String date) {
         return date.length() > 0;
+        //TODO check for min and max year
     }
 
     public double prepareNumber(String value, String sign) {
